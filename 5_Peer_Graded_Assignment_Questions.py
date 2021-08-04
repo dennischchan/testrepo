@@ -1,6 +1,3 @@
-python3 5_Peer_Graded_Assignment_Questions.py
-
-
 # Import required libraries
 import pandas as pd
 import dash
